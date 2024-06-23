@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Gaurav Awate
+- 👀 I’m interested in building performant web applications and exploring cutting-edge AI integration.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on open-source projects focused on front-end development.
+- 📫 How to reach me -> gauravawate5712@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I can solve a Rubik's cube in under 50 seconds!
